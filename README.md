@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DionVG033
+- 👀 I’m interested in gaming and coding ofc
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on csgo mods/utils
+- 📫 How to reach me: Discord, ku#9999
